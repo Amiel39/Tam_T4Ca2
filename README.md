@@ -1,136 +1,90 @@
-# Mantis Free Angular Bootstrap Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20Mantis%20Angular%20-%20The%20most%20Beautiful%20Bootstrap%20Designed%20Admin%20Dashboard%20Template%20&url=https://mantisdashboard.io&via=codedthemes&hashtags=angular,webdev,developers,javascript)
+<div align="center">
+    <a href="[https://github.com/YousefIbrahimismail](https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/428616633_122093362610226440_5800837181824360350_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=dIiSYLmr4ngQ7kNvgEW81EW&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=AaFIAkpn36B41Az49CNNf8U&oh=00_AYBn-caaFR4WeTxjssBGbuZH3Yi4WvFOiszJGl1New2_IQ&oe=671DD721)" target="_blank">
+        <img src="https://github.com/user-attachments/assets/af7ac8ac-26ed-476a-b995-2402e1ce3580" 
+        alt="Logo" width="290" height="290">
+    </a>
+</div>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/tree-store-admin-fe/blob/main/LICENSE)
-[![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/tree-store-admin-fe)](https://github.com/codedthemes/tree-store-admin-fe/)
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hello!+I'm+Minh+Tam+%3C3">
+</div>
 
-Mantis is a free angular admin dashboard template built with Angular and latest Bootstrap 5. It is meant to provide the best possible User Experience with highly customizable feature-rich pages. It is a complete Dashboard Template that has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
-:star: :star: :star: Do not forget to star (Top right of this page) it if you like the theme :star: :star: :star:
+<div align="center">
+    <a href="https://www.instagram.com/amiel_39/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.facebook.com/profile.php?id=61556793200820"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://github.com/tamntm39"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
-![IMG_8566.jpg](https://org-public-assets.s3.us-west-2.amazonaws.com/Free-Version-Banners/GITHUB-FREE-ANGULAR-REPO%20-%20Mantis.jpg)
+## 👨‍💻  About Me
 
-[Pro version](https://codedthemes.com/item/mantis-angular-admin-template/?utm_source=free_demo&utm_medium=codedthemes&utm_campaign=button_download_premium) of Mantis Angular Dashboard template contains features like TypeScript, Apps, Authentication Methods (i.e. JWT), Advance Components, Form Plugins, Layouts, Widgets, and many more.
+Hello! 👋 I am Minh Tam, a freshman at Ho Chi Minh City University of Foreign Languages ​​and Information Technology. I love exploring new technologies and constantly improving my programming and problem-solving skills.
 
-| [Mantis Free](https://mantisdashboard.io/angular/free/) | [Mantis](https://codedthemes.com/item/mantis-angular-admin-template/?utm_source=free_demo&utm_medium=codedthemes&utm_campaign=button_download_premium)            |
-| ------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| **9** Demo pages                                        | **45+** demo pages                                                               |
-| -                                                       | ✓ Multi-language                                                                 |
-| -                                                       | ✓ Dark/Light Mode 🌓                                                             |
-| -                                                       | ✓ TypeScript version                                                             |
-| -                                                       | ✓ 6+ color Options                                                               |
-| -                                                       | ✓ RTL                                                                            |
-| -                                                       | ✓ [More components](https://mantisdashboard.io/angular/default/components/basic/alert) |
-| ✓ MIT License                                           | ✓ [Pro License](https://codedthemes.com/item/mantis-angular-admin-template/?utm_source=free_demo&utm_medium=codedthemes&utm_campaign=button_download_premium) |
+🛠 **Specializations**:
+- 💻 **Languages**: C#, Java, JavaScript, HTML, CSS
+- ⚙️ **Frameworks**: React, Node.js, Angular
+- 🔧 **Tools**: Git, VSCode, SSMS
+- 🗄 **Databases**: SQL Server, MongoDB, Firebase Firestore
 
-## Why Mantis?
+📚 In my free time, I often read books, listen to music, and learn new knowledge. 
 
-Mantis offers everything you need to create dashboards. We have included the following high-end features in our initial release:
+📫Feel free to check out my projects and connect with me through the links below. Let's create something awesome together!
 
-- Modern aesthetics UI design
-- Bootstrap components
-- Fully Responsive, all modern browser supported
-- Easy to use code structure
-- Flexible & High-Performance code
-- Easy Documentation Guide
+## ⚙️ Core Technologies
 
-## Free Mantis Angular version
+<div align="center">
+    <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank">
+        <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+    <a href="https://angular.io/" target="_blank">
+        <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    </a>
+</div>
 
-#### Preview
+## 🎖️ GitHub 
 
-- [Demo](https://mantisdashboard.io/angular/free/)
+<div align="center">
+    <a href="https://github.com/tamntm39">
+        <img src="https://github-readme-stats.vercel.app/api?username=tamntm39&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </a>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamntm39&layout=compact&theme=radical" alt="Top Languages" />
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=tamntm39&theme=algolia" alt="GitHub Trophy" />
+</div>
 
-#### Download
+### Contributions Over Time
 
-- [Download from GitHub](https://github.com/codedthemes/tree-store-admin-fe)
+![Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=tamntm39&layout=compact&theme=radical)
 
-## Mantis Pro version
 
-#### Preview
+## 📂 Project Descriptions
 
-- [Demo](https://mantisdashboard.io/angular/default)
+I have some outstanding projects:
 
-#### Purchase
+### 1. [Ecommerce-MVC](https://github.com/tamntm39/Ecommerce-MVC)
+   - **Description**: This is an E-commerce website. Book selling website.
+   - **Technologies**: C#, HTML, Javastrip, etc.
 
-- [Purchase from CodedThemes](https://codedthemes.com/item/mantis-angular-admin-template/?utm_source=free_demo&utm_medium=codedthemes&utm_campaign=button_download_premium)
+### 2. [AppMusic](https://github.com/tamntm39/AppMusic)
+   - **Description**: This app is coded based on Zing Mp3 app.
+   - **Technologies**: Java, FiseBase, etc.
+  
 
-## Table of contents
+### 3. [TreeStore](https://github.com/tamntm39/TreeStore)
+  - **Description**: A sales management system of a tree selling website.
+   - **Technologies**: Angular, SQL Server, etc.
 
-- [Getting Started](#getting-started)
-- [Documentation](#documentation)
-- [Technology Stack](#technology-stack)
-- [Author](#author)
-- [Issues?](#issues)
-- [License](#license)
-- [More Free Angular Templates](#more-free-angular-dashboard-templates)
-- [More Pro Angular Templates](#more-premium-angular-dashboard-templates)
-- [Follow us](#follow-us)
 
-## Getting Started
+  
+ 
 
-1. Clone from Github
-
-```
-git clone https://github.com/codedthemes/tree-store-admin-fe.git
-```
-
-2. Install packages
-
-```
-yarn
-```
-
-3. Run project
-
-```
-yarn start
-```
-
-## Documentation
-
-[Mantis Angular Documentation](https://codedthemes.gitbook.io/mantis-angular/) helps you with installation, deployment, and troubleshooting.
-
-## Technology Stack
-
-- Bootstrap 5
-- Angular 17
-
-## Author
-
-Mantis is developed by Team [CodedThemes](https://codedthemes.com).
-
-## Issues
-
-To report a bug, please submit an [issue](https://github.com/codedthemes/tree-store-admin-fe/issues) on Github. We will respond as soon as possible to resolve the issue.
-
-## License
-
-- Licensed cover under [MIT](https://github.com/codedthemes/tree-store-admin-fe/blob/master/LICENSE)
-
-## Mantis - React version
-
-- [Free](https://mantisdashboard.io/free/)
-- [Premium](https://mui.com/store/items/mantis-react-admin-dashboard-template/)
-
-## More Free Angular Dashboard Templates
-
-- [Datta Able Angular](https://codedthemes.com/item/datta-able-angular-lite/)
-- [Gradient Able Angular](https://codedthemes.com/item/gradient-able-angular-free-admin-template/)
-- [Next Angular](https://codedthemes.com/item/next-free-admin-template/)
-- [Berry Angular](https://codedthemes.com/item/berry-angular-free-admin-template/)
-
-## More Premium Angular Dashboard Templates
-
-- [Datta Able Angular Pro](https://codedthemes.com/item/datta-able-angular/?utm_source=free_demo&utm_medium=codedthemes&utm_campaign=button_download_premium)
-- [Gradient Able Angular Pro](https://codedthemes.com/item/gradient-able-angular-admin-template/?utm_source=free_demo&utm_medium=codedthemes&utm_campaign=button_download_premium)
-- [Next Angular Pro](https://codedthemes.com/item/next-angular-admin-template/)
-- [Berry Angular Pro](https://codedthemes.com/item/berry-angular-admin-dashboard-template/?utm_source=free_demo&utm_medium=codedthemes&utm_campaign=button_download_premium)
-
-## Follow us
-
-- Website [https://mantisdashboard.io/angular/default/](https://mantisdashboard.io/angular/default/)
-- Blog [https://blog.mantisdashboard.io](https://blog.mantisdashboard.io)
-- CodedThemes [https://codedthemes.com](https://codedthemes.com)
-- Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
-- Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
-- Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
